@@ -1,3 +1,3 @@
 # ticktactoe
 
-Interesting game. No found any error yet
+Tried something by own...
