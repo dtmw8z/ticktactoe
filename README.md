@@ -1,3 +1,3 @@
-# ticktactoe
+# TickTackToe
 
-Tried something by own...
+Enjoy it !! 😂
